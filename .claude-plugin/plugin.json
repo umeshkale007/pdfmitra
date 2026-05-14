@@ -1,0 +1,26 @@
+{
+  "name": "pdfmitra",
+  "version": "1.0.0",
+  "description": "PDF toolkit (पीडीएफ मित्र) — lossless merge, split, page/text/table extraction, watermark, rotate, OCR. Adds a /pdfmitra slash command to Claude Code.",
+  "author": {
+    "name": "Umesh Kale",
+    "url": "https://github.com/umeshkale007"
+  },
+  "homepage": "https://github.com/umeshkale007/pdfmitra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umeshkale007/pdfmitra.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "pdf",
+    "merge",
+    "split",
+    "ocr",
+    "tables",
+    "watermark",
+    "claude-code",
+    "slash-command",
+    "lossless"
+  ]
+}
